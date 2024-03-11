@@ -49,7 +49,7 @@ You can get video file _named by today date-current time_
 
 **4. Flip - `Tab` key**  
 Flip your screen  
-It can use in _anything mode_
+It can use in _anything mode_    
 ![flip](asset/flip_demo.gif)
 
 <br>
@@ -61,11 +61,10 @@ It can use in _anything mode_
 
 ## Demo
 
-- demo
-
+- demo    
 ![demo](asset/demo.gif)
 
 <br>
 
-- result video
-  ![result](asset/result.gif)
+- result video    
+![result](asset/result.gif)
